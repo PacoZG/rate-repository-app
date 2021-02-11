@@ -1,2 +1,2 @@
 # rate-repository-app
- Exercises fullstack part 10
+Part 1 rate-repository-app
