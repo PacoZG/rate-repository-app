@@ -43,8 +43,6 @@ export const SINGLE_REPOSITORY = gql`
       }    
     }
   }
-=======
->>>>>>> parent of 36b4250 (Update on exercises of rate repository app part 3)
   ${REPOSITORY_DETAILS}
   `;
 
